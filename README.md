@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://scontent.fdiq2-1.fna.fbcdn.net/v/t1.0-9/13006736_1331924000156113_6363562860892214294_n.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_ohc=hqlQ7pVj3rAAX-FZixF&_nc_oc=AQn1NqubQOJCQv-ESSe3hPkzrbiM2rtrkeoi00zb2kqSjeTmgYn5z81c4HAw7-9Zcso&_nc_ht=scontent.fdiq2-1.fna&oh=4a37b04cbf090f1b5c45365ec9683b32&oe=5F98AAC3">
+<img align="right" width="400" height="400" src="https://abrilmdemulher.files.wordpress.com/2016/10/meme-cc3a3o-feliz.jpg?quality=90&strip=info&w=600&h=886">
  
 # Welcome!
  
