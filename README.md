@@ -4,7 +4,7 @@
  
 ## I'm Carlos! Let me present a little about mylself :D
  
-Programador que resolverá problemas cada vez mais com maior qualidade e velocidade. Problemas que quando resolvidos me retornarão satisfação, dinheiro e satisfação de poder gastar esse dinheiro ajudando pessoas.
+Programmer who solves problems more and more with higher quality and speed. Problems that when solved will return satisfaction, money and satisfaction of being able to spend that money helping people.
  
  
 ## About me 
