@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**carlosedlucas/carlosedlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width="400" height="400" src="https://scontent.fdiq2-1.fna.fbcdn.net/v/t1.0-9/13006736_1331924000156113_6363562860892214294_n.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_ohc=hqlQ7pVj3rAAX-FZixF&_nc_oc=AQn1NqubQOJCQv-ESSe3hPkzrbiM2rtrkeoi00zb2kqSjeTmgYn5z81c4HAw7-9Zcso&_nc_ht=scontent.fdiq2-1.fna&oh=4a37b04cbf090f1b5c45365ec9683b32&oe=5F98AAC3">
+ 
+# Welcome!
+ 
+## I'm Carlos! Let me present a little about mylself :D
+ 
+Programador que resolverá problemas cada vez mais com maior qualidade e velocidade. Problemas que quando resolvidos me retornarão satisfação, dinheiro e satisfação de poder gastar esse dinheiro ajudando pessoas.
+ 
+ 
+## About me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carlosedlucas)](https://github.com/carlosedlucas)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosedlucas/)](https://www.linkedin.com/in/carlosedlucas/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+999266726&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosedlucas@gmail.com)](mailto:carlosedlucas@gmail.com)
+ 
+- Thanks for visiting. 
+ 
+- Enjoy it!! o/
