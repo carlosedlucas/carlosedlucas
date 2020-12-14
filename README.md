@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://abrilmdemulher.files.wordpress.com/2016/10/meme-cc3a3o-feliz.jpg?quality=90&strip=info&w=600&h=886">
+<img align="right" width="400" height="400" src="https://i.redd.it/xc3q9bc2xr311.jpg">
  
 # Welcome!
  
