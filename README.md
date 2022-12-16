@@ -8,6 +8,8 @@ Programmer who solves problems more and more with higher quality and speed. Prob
  
  
 ## About me 
+[![Github Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://carlosedlucas.dev/)
+[![Linkedin Badge](https://img.shields.i
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carlosedlucas)](https://github.com/carlosedlucas)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosedlucas/)](https://www.linkedin.com/in/carlosedlucas/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosedlucas@gmail.com)](mailto:carlosedlucas@gmail.com)
